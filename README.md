@@ -41,7 +41,7 @@
 <a href="mailto:jjgod66gi66@gmail.com">
 <img src="https://img.shields.io/badge/Mail-EA4335?style=flat&logo=gmail&logoColor=white" />
 </a>
-<a href="https://jjgod66.github.io">
+<a href="https://github.com/jjgod66/jjgod66/raw/main/portfolio.pdf" download="portfolio">
 <img src="https://img.shields.io/badge/Portfolio-B5314C?style=flat&logo=codesandbox&logoColor=white" />
 </a>
 <br><br><br><br>
