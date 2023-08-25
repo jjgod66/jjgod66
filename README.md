@@ -14,7 +14,7 @@
 
 평생 학습하며 시대에 뒤쳐지지 않는 Developer가 될 것이라 저 자신에게 약속합니다.
 
-<br>
+<br><br><br>
 
 ## 📚 Skills 📚
 <br>
@@ -44,14 +44,16 @@
 <a href="https://jjgod66.github.io">
 <img src="https://img.shields.io/badge/Portfolio-B5314C?style=flat&logo=codesandbox&logoColor=white" />
 </a>
+<br><br><br><br>
+
+## 💾 Projects 💾
 <br><br>
+[DW Academy Middle-Project 은행나무](www.naver.com)
 
-### 💾 Projects 💾
-[DW Academy Middle-Projcect 은행나무](www.naver.com)
+[DW Academy Final-Project DWAcademy](www.naver.com)
+<br><br><br><br>
 
-[DW Academy Final-Projcect DWAcademy](www.naver.com)
+## ⚖ Statistics ⚖
 <br><br>
-
-### ⚖ Statistics ⚖
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjgod66&layout=compact"><br><br><img src="https://github-readme-stats.vercel.app/api?username=jjgod66&show_icons=true">
 </div>
