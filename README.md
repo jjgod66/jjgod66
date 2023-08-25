@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Developer_KimSangJae&fontSize=50)
 
 
-## 🎈Introduce
+## 🎈 Introduce 🎈
 <br>
 
 안녕하세요! 포기하지 않는 집념의 개발자 김상재입니다.
