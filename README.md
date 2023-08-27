@@ -48,9 +48,9 @@
 
 ## 💾 Projects 💾
 <br><br>
-[DW Academy Middle-Project 은행나무](www.naver.com)
+[DW Academy Middle-Project 은행나무](https://github.com/jjgod66/jjgod66/blob/main/%EC%9D%80%ED%96%89%EB%82%98%EB%AC%B4.md)
 
-[DW Academy Final-Project DWAcademy](www.naver.com)
+[DW Academy Final-Project DWAcademy](https://github.com/jjgod66/jjgod66/blob/main/DWAcademy.md)
 <br><br><br><br>
 
 ## ⚖ Statistics ⚖
