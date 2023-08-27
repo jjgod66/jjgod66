@@ -152,7 +152,7 @@ public ResponseEntity<byte[]> getPicture(String name, String item_cd, String typ
 
 ![thr_mov01](https://github.com/jjgod66/jjgod66/assets/125471355/6e506063-648d-4e5a-b20d-0597e159275b)
 
-관리자가 이 시간대에 새로운 상영영화를 확인할 수 있게 상영시간표 확인을 구현해야 했습니다.
+관리자가 본인이 선택하는 시간대에 새로운 상영영화를 등록할 수 있는지 확인할 수 있는 상영시간표를 구현해야 했습니다.
 
 선택한 상영영화의 시작시간이 현재시간 기준보다 이후인지, 그리고 종료시간이 영화관 마감시간보다 이전인지 우선 체크를합니다.
 
