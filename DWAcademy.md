@@ -5,6 +5,8 @@
 ## 🎈 개요
 <br>
 영화 예매 플랫폼 <b>DW Academy</b>
+
+link : <https://github.com/jjgod66/dw-final-group1>
 <br><br><br>
 
 ## 📚 개발 환경
