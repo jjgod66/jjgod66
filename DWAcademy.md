@@ -689,7 +689,7 @@ public ResponseEntity<byte[]> getTempImg(String fileName, HttpServletRequest req
     out.close();
   }
 
-// 주기적으로 temp폴더 비우기 (따로 util package에 관리했음)
+// 주기적으로 temp폴더 비우기 (따로 util package 내 Scheduler Class에서 관리했음)
 @Scheduled(cron = "0 0 4 ? * *")
 public void removeTempImg() throws IOException {
   File directory = new File(eventPicUploadPath + File.separator + "temp");
