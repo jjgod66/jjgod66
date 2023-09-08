@@ -48,7 +48,7 @@
 
 ## 💾 Projects 💾
 <br><br>
-[(수정중)DW Academy Middle-Project 은행나무](https://github.com/jjgod66/jjgod66/blob/main/%EC%9D%80%ED%96%89%EB%82%98%EB%AC%B4.md)
+[DW Academy Middle-Project 은행나무](https://github.com/jjgod66/jjgod66/blob/main/%EC%9D%80%ED%96%89%EB%82%98%EB%AC%B4.md)
 
 [DW Academy Final-Project DWAcademy](https://github.com/jjgod66/jjgod66/blob/main/DWAcademy.md)
 <br><br><br><br>
